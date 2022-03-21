@@ -1,25 +1,21 @@
-# Termine Neue Medien - Werkstatt WS 21/22
+# Termine Neue Medien - Werkstatt - Werkstatt SoSe 22
 
-- Uhrzeit:
+- **Kurs 1** Uhrzeit: 8.45-10.15
+- **Kurs 2** Uhrzeit: 12.15-13.45
+- Ort: Freies Radio Kassel, Opernstraße 2
 
-| Datum | Sitzung | Inhalt | Form |
-| ----- | ------- | ------ | ---- |
-| Montag, 11.10.21 | 1
-| Montag, 18.10.21 | 2
-| Montag, 25.10.21 | 3
-| Montag, 1.11.21 | 4
-| Montag, 8.11.21 | 5
-| Montag, 15.11.21 | 6
-| Montag, 22.11.21 | 7
-| Montag, 29.11.21 | 8
-| Montag, 6.12.21 | 9
-| Montag, 13.12.21 | 10
-| Montag, 20.12.21 | - | 🎅
-| Montag, 27.12.21 | - | 🎄
-| Montag, 3.1.22 | 11
-| Montag, 10.1.22 | 12
-| Montag, 17.1.22 | 13
-| Montag, 24.1.22 | 14
-| Montag, 31.1.22 | 15
-| Montag, 7.2.22 | 16
-| Montag, 14.2.22 | 17
+| Datum | Sitzung | Inhalt
+| ----- | ------- | ------
+| Montag, 4.4.22 | 1 | Begrüßung, Organisatorisches
+| Montag, 11.4.22 | 2 | Besprechung der Projektideen
+| Montag, 18.4.22 | - | Ostern 🐰🥚
+| Montag, 25.4.22 | 4 | Konzeptionsphase
+| Montag, 2.5.22 | 5 | Konzeptionsphase
+| Montag, 9.5.22 | 6 | Konzeptionsphase
+| Montag, 16.5.22 | 7 | Durchführungsphase
+| Montag, 23.5.22 | 8 | Durchführungsphase
+| Montag, 30.5.22 | 9 | Durchführungsphase
+| Montag, 6.6.22 | - | Pfingsten 🌺
+| Montag, 13.6.22 | 11 | Durchführungsphase
+| Montag, 20.6.22 | 12 | Präsentation/Reflexion der Ergebnisse
+| Montag, 27.6.22 | - | Aufnahmewoche 📽📽📽
